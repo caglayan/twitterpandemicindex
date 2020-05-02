@@ -1,3 +1,6 @@
+# WEB SITE
+twitterpandemicindex.netlify.app
+
 # About
 Just like the stock index, the pandemindex reflects global sentiment about the COVID-19 pandemic.<br>
 The pandemindex is calculated from 200 million tweets about the COVID-19 pandemic. <br>
