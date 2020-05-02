@@ -1,5 +1,8 @@
 # WEB SITE
+
 twitterpandemicindex.netlify.app
+
+https://devpost.com/software/tweet-pandemic-index
 
 # About
 Just like the stock index, the pandemindex reflects global sentiment about the COVID-19 pandemic.<br>
